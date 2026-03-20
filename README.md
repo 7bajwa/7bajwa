@@ -1,70 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070a0c,50:1a1a2e,100:16213e&height=220&section=header&text=Amanpreet%20Bajwa&fontSize=56&fontColor=e4c97a&fontAlignY=38&desc=Senior%20Foliage%20%26%20Environment%20Artist%20%7C%20Pipeline%20Engineer%20%7C%20Mentor&descColor=6e6e65&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070a0c,50:1a1a2e,100:16213e&height=220&section=header&text=Amanpreet%20Bajwa&fontSize=56&fontColor=e4c97a&fontAlignY=38&desc=Senior%20Biome%20%26%20Foliage%20Artist%20%7C%20Mentor%20%7C%20BCon%20Speaker&descColor=6e6e65&descAlignY=60&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![ArtStation](https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/bajwa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7bajwa/)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/7bajwa)
-[![Topmate](https://img.shields.io/badge/Topmate-Book%20Mentorship-6C63FF?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/fpa)
-[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@7bajwa)
+[![ArtStation](https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/bajwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7bajwa/) [![Topmate](https://img.shields.io/badge/Topmate-Book%20Mentorship-6C63FF?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/fpa) [![Patreon](https://img.shields.io/badge/Patreon-Support-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/7bajwa) [![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@7bajwa) [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7bajwa)
 
 </div>
 
 ---
 
-## 🌿 Senior Biome & Foliage Artist · 10+ Years · AAA
+<div align="center">
 
-> *"The best environments don't just look real - they feel alive with a feeling."*
+<img src="https://cdnb.artstation.com/p/assets/images/images/087/491/755/large/amanpreet-bajwa-amanpreet-bajwa-castleruins-longshot-02.jpg" width="80%" alt="Amanpreet Bajwa — Castle Ruins Environment"/>
 
-I'm a **Senior Biome & Foliage Artist** who has spent 10+ years building photorealistic game environments for some of the industry's biggest titles. 
-I specialise in **foliage systems**, **biome pipelines**, and **Blender ↔ Unreal Engine 4/5**.
-And I build the tools that make great art sustainable at production scale.
+</div>
 
 ---
 
-## 🎮 Games & Studios I've Worked With
+<div align="center">
 
-| Game | Studio | Role |
-|---|---|---|
-| **Grand Theft Auto** | Rockstar Games | Sr Vegetation Artist |
-| **Off the Grid** | Gunzilla Games | Sr Biome Artist |
-| **Mafia** | Hangar 13 / 2K Games | Environment Artist |
-| **Forza Horizon 4** | Dhruva Interactive | Vegetation Artist |
-| **Overkill's The Walking Dead** | Dhruva Interactive | Environment Artist |
-| **Hunting Simulator 2** | Dhruva Interactive | Environment Artist |
-| **Godfall** | Dekogon | Environment Artist |
-| **UE5 Demo** | ASC Games / Epic | Environment Artist |
-| **Crossfire Co-Op** | Dhruva Interactive | Vegetation Artist |
-| **NVIDIA Simulator** | NVIDIA | Environment Artist |
-| **Romero Games (NDA)** | Romero Games | Sr Vegetation Artist |
+## 🌿 Senior Biome & Foliage Artist · 10+ Years · AAA
+
+> *"The best environments don't just look real — they feel alive."*
+
+I'm a **Senior Biome & Foliage Artist** with 10+ years building photorealistic game environments<br/>
+for some of the industry's biggest titles. I specialise in **foliage systems**, **biome pipelines**,<br/>
+and **Blender ↔ Unreal Engine 4/5** — and I build the tools that make great art sustainable at scale.
+
+</div>
+
+---
+
+## 🎮 Games & Studios
+
+<div align="center">
+
+| 🎮 **Game** | 🏢 **Studio** | 🎨 **Role** |
+|:---|:---|:---|
+| ![gold](https://img.shields.io/badge/Grand%20Theft%20Auto%20VI-c8a84b?style=flat-square) | Rockstar Games | Sr Vegetation Artist |
+| ![gold](https://img.shields.io/badge/Off%20the%20Grid-c8a84b?style=flat-square) | Gunzilla Games | Sr Biome Artist |
+| ![gold](https://img.shields.io/badge/Mafia%3A%20Definitive%20Edition-c8a84b?style=flat-square) | Hangar 13 / 2K Games | Environment Artist |
+| ![gold](https://img.shields.io/badge/Forza%20Horizon%204-c8a84b?style=flat-square) | Dhruva Interactive | Vegetation Artist |
+| ![gold](https://img.shields.io/badge/Overkill's%20The%20Walking%20Dead-c8a84b?style=flat-square) | Dhruva Interactive | Environment Artist |
+| ![gold](https://img.shields.io/badge/Hunting%20Simulator%202-c8a84b?style=flat-square) | Dhruva Interactive | Environment Artist |
+| ![gold](https://img.shields.io/badge/Godfall-c8a84b?style=flat-square) | Dekogon | Environment Artist |
+| ![gold](https://img.shields.io/badge/UE5%20Epic%20Games%20Demo-c8a84b?style=flat-square) | ASC Games / Epic Games | Environment Artist |
+| ![gold](https://img.shields.io/badge/Crossfire%20Co--Op-c8a84b?style=flat-square) | Dhruva Interactive | Vegetation Artist |
+| ![gold](https://img.shields.io/badge/NVIDIA%20Simulator-c8a84b?style=flat-square) | NVIDIA | Environment Artist |
+| ![gold](https://img.shields.io/badge/Romero%20Games%20(NDA)-c8a84b?style=flat-square) | Romero Games Ltd. | Sr Vegetation Artist |
+
+</div>
 
 ---
 
 ## 🖼️ Selected Works
 
-<table>
-<tr>
-<td width="33%"><a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/087/491/755/large/amanpreet-bajwa-amanpreet-bajwa-castleruins-longshot-02.jpg" width="100%" alt="Castle Ruins"/></a><br/><sub><b>Castle Ruins</b></sub></td>
-<td width="33%"><a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/058/370/425/large/amanpreet-bajwa-ancient-one-11.jpg" width="100%" alt="Ancient One UE5 Demo"/></a><br/><sub><b>Ancient One — UE5 Demo</b></sub></td>
-<td width="33%"><a href="https://www.artstation.com/bajwa"><img src="https://cdna.artstation.com/p/assets/images/images/096/665/928/large/amanpreet-bajwa-amanpreet-bajwa-m-toc-day-10.webp" width="100%" alt="Environment Scene"/></a><br/><sub><b>Overcast Biome Scene</b></sub></td>
-</tr>
-<tr>
-<td width="33%"><a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/014/458/085/large/amanpreet-bajwa-feudal-japan-day.jpg" width="100%" alt="Feudal Japan Day"/></a><br/><sub><b>Feudal Japan — Day</b></sub></td>
-<td width="33%"><a href="https://www.artstation.com/bajwa"><img src="https://cdna.artstation.com/p/assets/images/images/014/458/076/large/amanpreet-bajwa-feudal-japan-night.jpg" width="100%" alt="Feudal Japan Night"/></a><br/><sub><b>Feudal Japan — Night</b></sub></td>
-<td width="33%"><a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/015/530/359/large/amanpreet-bajwa-north-kingdom-02.jpg" width="100%" alt="North Kingdom"/></a><br/><sub><b>North Kingdom</b></sub></td>
-</tr>
-<tr>
-<td width="33%"><a href="https://www.artstation.com/bajwa"><img src="https://cdna.artstation.com/p/assets/images/images/038/767/284/large/amanpreet-bajwa-fh4-tree.jpg" width="100%" alt="Forza Horizon 4 Tree"/></a><br/><sub><b>Forza Horizon 4 — Foliage</b></sub></td>
-<td width="33%"><a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/078/613/609/large/amanpreet-bajwa-tomb-03.jpg" width="100%" alt="Tomb"/></a><br/><sub><b>Tomb Environment</b></sub></td>
-<td width="33%"><a href="https://www.artstation.com/bajwa"><img src="https://cdna.artstation.com/p/assets/images/images/021/109/986/large/amanpreet-bajwa-colorado-screen-10.jpg" width="100%" alt="Colorado"/></a><br/><sub><b>Colorado</b></sub></td>
-</tr>
-</table>
-
 <div align="center">
+
+<a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/087/491/755/large/amanpreet-bajwa-amanpreet-bajwa-castleruins-longshot-02.jpg" width="32%"/></a> <a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/058/370/425/large/amanpreet-bajwa-tomb-03.jpg" width="32%"/></a> <a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/095/233/973/large/amanpreet-bajwa-mth-02.webp" width="32%"/></a>
+
+<a href="https://www.artstation.com/bajwa"><img src="https://cdna.artstation.com/p/assets/images/images/096/665/928/large/amanpreet-bajwa-amanpreet-bajwa-m-toc-day-10.webp" width="32%"/></a> <a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/058/370/425/large/amanpreet-bajwa-ancient-one-11.jpg" width="32%"/></a> <a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/015/530/359/large/amanpreet-bajwa-north-kingdom-02.jpg" width="32%"/></a>
+
+<a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/014/458/085/large/amanpreet-bajwa-feudal-japan-day.jpg" width="32%"/></a> <a href="https://www.artstation.com/bajwa"><img src="https://cdna.artstation.com/p/assets/images/images/014/458/076/large/amanpreet-bajwa-feudal-japan-night.jpg" width="32%"/></a> <a href="https://www.artstation.com/bajwa"><img src="https://cdnb.artstation.com/p/assets/images/images/032/864/983/large/amanpreet-bajwa-bigbang-08-01.jpg" width="32%"/></a>
+
+<a href="https://www.artstation.com/bajwa"><img src="https://cdna.artstation.com/p/assets/images/images/038/767/284/large/amanpreet-bajwa-fh4-tree.jpg" width="32%"/></a> <a href="https://www.artstation.com/bajwa"><img src="https://cdna.artstation.com/p/assets/images/images/038/767/472/large/amanpreet-bajwa-fh4-h03.jpg" width="32%"/></a> <a href="https://www.artstation.com/bajwa"><img src="https://cdna.artstation.com/p/assets/images/images/021/109/986/large/amanpreet-bajwa-colorado-screen-10.jpg" width="32%"/></a>
 
 **[→ See the full portfolio at ArtStation](https://www.artstation.com/bajwa)**
 
@@ -76,30 +78,29 @@ And I build the tools that make great art sustainable at production scale.
 
 ```
 3D Art        Blender · SpeedTree · PlantFactory · ZBrush · 3DS Max · Maya
-Engines       Unreal Engine 5 (Nanite, Lumen, PCG, Shaders, Procedural Systems)
+Engines       Unreal Engine 4/5 (Nanite · Lumen · PCG · Shaders · Procedural Systems)
 Texturing     Substance Painter · Substance Designer · Photoshop
 Terrain       World Machine · Gaea · Houdini
-Scanning      Photogrammetry pipelines
-Technical     Python · Geometry Nodes · Blueprint · PCG
-Workflows     Modular · Oprimization · LOD · Trim Sheets · Decals · PBR
+Scanning      Photogrammetry Pipelines
+Technical     Python · C++ · Geometry Nodes · Blueprint · PCG
+Workflows     Modular · Optimisation · LOD · Trim Sheets · Decals · PBR · WPO · SSS
 ```
 
 ---
 
 ## 🚀 Featured Technical Projects
 
-### 🌱 Blender ↔ UE5 Bridge System (In developement)
+### 🌱 Blender ↔ UE5 Bridge System *(In Development)*
 Full bidirectional pipeline between Blender and Unreal Engine 5.
 - Direct bridge via **UE Remote Control API** + file-based staging
 - **Auto material instance creation** with MRA/SRA/HRA texture detection
-- Collection → folder hierarchy mirroring
+- Collection → folder hierarchy mirroring between Blender and UE5
 
 ### 🗂️ 3D Model Viewer
-Compiled a desktop app for really usefull online 3D viewer app.
+Compiled a desktop app for a practical, lightweight online 3D model viewer.
 
 ### 📸 AutoScanner
-Wrote a batch script `autoscan.bat` to automatically scan all the folders in the folder with this script. 
-It can render image sequence from videos usin ffmpeg.
+Batch script `autoscan.bat` to automatically scan all subfolders and render image sequences from videos using ffmpeg.
 
 ---
 
@@ -108,13 +109,13 @@ It can render image sequence from videos usin ffmpeg.
 ```
 🏆  Top 0.1% on Topmate
 📅  792+ mentorship sessions delivered
-🎙️  BCon Keynote Speaker: 2023, 2024, 2025 (CZSK BCon 2024 & 2025)
+🎙️  BCon Keynote Speaker: 2023, 2024 & 2025  ·  CZSK BCon 2024 & 2025
 🎓  University guest lecturer — Foliage Art & Game Dev Pipelines
 ```
 
 I mentor artists on:
 - Foliage & biome art fundamentals
-- UE5 PCG Framework, Nanite foliage, scattering
+- UE5 PCG Framework, Nanite foliage, scattering & placement
 - Blender game pipeline & tool development
 - Portfolio reviews and career strategy
 
@@ -150,6 +151,6 @@ I mentor artists on:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:070a0c&height=100&section=footer" width="100%"/>
 
-*Senior Biome & Foliage Artist · BCon Speaker · Future/Past Academy · Founder*
+*Senior Biome & Foliage Artist · BCon Keynote Speaker 2023–2025 · Future/Past Academy Founder*
 
 </div>
