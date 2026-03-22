@@ -28,17 +28,20 @@ and **Blender ↔ Unreal Engine 4/5** — and I build the tools that make great 
 <div align="center">
 | 🎮 **Game** | 🏢 **Studio** | 🎨 **Role** |
 |:---|:---|:---|
-| ![gold](https://img.shields.io/badge/Grand%20Theft%20Auto%20VI-c8a84b?style=flat-square) | Rockstar Games | Sr Vegetation Artist |
-| ![gold](https://img.shields.io/badge/Off%20the%20Grid-c8a84b?style=flat-square) | Gunzilla Games | Sr Biome Artist |
-| ![gold](https://img.shields.io/badge/Mafia%3A%20Definitive%20Edition-c8a84b?style=flat-square) | Hangar 13 / 2K Games | Environment Artist |
-| ![gold](https://img.shields.io/badge/Forza%20Horizon%204-c8a84b?style=flat-square) | Dhruva Interactive | Vegetation Artist |
-| ![gold](https://img.shields.io/badge/Overkill's%20The%20Walking%20Dead-c8a84b?style=flat-square) | Dhruva Interactive | Environment Artist |
-| ![gold](https://img.shields.io/badge/Hunting%20Simulator%202-c8a84b?style=flat-square) | Dhruva Interactive | Environment Artist |
-| ![gold](https://img.shields.io/badge/Godfall-c8a84b?style=flat-square) | Dekogon | Environment Artist |
-| ![gold](https://img.shields.io/badge/UE5%20Epic%20Games%20Demo-c8a84b?style=flat-square) | ASC Games / Epic Games | Environment Artist |
-| ![gold](https://img.shields.io/badge/Crossfire%20Co--Op-c8a84b?style=flat-square) | Dhruva Interactive | Vegetation Artist |
-| ![gold](https://img.shields.io/badge/NVIDIA%20Simulator-c8a84b?style=flat-square) | NVIDIA | Environment Artist |
-| ![gold](https://img.shields.io/badge/Romero%20Games%20(NDA)-c8a84b?style=flat-square) | Romero Games Ltd. | Sr Vegetation Artist |
+| Off the Grid | Gunzilla Games | Sr Biome Artist |
+| Cancelled | Romero Games Ltd. | Sr Vegetation Artist |
+| Grand Theft Auto | Rockstar Games | Sr Vegetation Artist |
+| Simulator Project | NVIDIA | Environment Artist |
+| UE5 Demo | ASC Games / Epic Games | Environment Artist |
+| Mafia | Hangar 13 / 2K Games | Environment Artist |
+| Forza Horizon | Dhruva Interactive | Vegetation Artist |
+| Overkill's Walking Dead | Dhruva Interactive | Environment Artist |
+| Hunting Simulator 2 | Dhruva Interactive | Environment Artist |
+| Godfall | Dekogon | Environment Artist |
+
+| Crossfire Co--Op | Dhruva Interactive | Vegetation Artist |
+
+
 
 </div>
 
