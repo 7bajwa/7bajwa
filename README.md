@@ -32,7 +32,7 @@ and I build the tools that make great art sustainable at scale.
 <a href="https://7bajwa.github.io/Canopy/"><img src="https://img.shields.io/badge/▶_Try_it_live-2ea44f?style=for-the-badge" alt="Try it live"/></a>
 </td>
 <td align="center" valign="top" width="33%">
-<h3>🇨🇿 <a href="https://github.com/7bajwa/czech-lab">Czech Lab</a></h3>
+<h3>📚 <a href="https://github.com/7bajwa/czech-lab">Czech Lab</a></h3>
 <p>Czech learning platform with a structured plan that takes you from zero Czech to the A2 permanent-residence exam in 26 weeks.</p>
 <a href="https://7bajwa.github.io/czech-lab/"><img src="https://img.shields.io/badge/▶_Start_learning-2ea44f?style=for-the-badge" alt="Start learning"/></a>
 </td>
