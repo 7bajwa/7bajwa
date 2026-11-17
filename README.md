@@ -24,103 +24,106 @@ and I build the tools that make great art sustainable at scale.
 
 ## 🚀 Technical Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🌳 [Canopy](https://github.com/7bajwa/Canopy)
-Intuitive, minimal, lightweight **node-based procedural foliage creator**. Runs in the browser on any device, online and offline, with Windows and Android builds. From an artist, for the artists.
+### [Canopy](https://github.com/7bajwa/Canopy)
+Node-based procedural foliage creator, made by an artist for artists.<br/>
+Runs in the browser on any device, online and offline.<br/>
+Windows and Android builds included.
 
-[![Live](https://img.shields.io/badge/▶_Try_it_live-2ea44f?style=flat-square)](https://7bajwa.github.io/Canopy/) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Try it live](https://img.shields.io/badge/▶_Try_it_live-2ea44f?style=for-the-badge)](https://7bajwa.github.io/Canopy/)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🌱 Blender ↔ UE5 Bridge *(in development)*
-Full bidirectional pipeline between Blender and Unreal Engine 5.
-- Live link via **UE Remote Control API** + file-based staging
-- **Auto material instances** with MRA/SRA/HRA texture detection
-- Collection ↔ folder hierarchy mirroring
+### [Czech Lab](https://github.com/7bajwa/czech-lab)
+Czech learning platform built around a structured study plan.<br/>
+Takes you from zero Czech to the A2 permanent-residence exam<br/>
+in 26 weeks.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+[![Start learning](https://img.shields.io/badge/▶_Start_learning-2ea44f?style=for-the-badge)](https://7bajwa.github.io/czech-lab/)
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+<br/>
 
-### 🥊 [BoxVR](https://github.com/7bajwa/BoxVR)
-VR boxing rhythm trainer for **Meta Quest 3**, built with WebXR and three.js. Runs free in the Quest Browser; also plays on desktop (keyboard) and phone (touch).
+### [BoxVR](https://github.com/7bajwa/BoxVR)
+VR boxing rhythm trainer for Meta Quest 3, built with WebXR and three.js.<br/>
+Runs free in the Quest Browser, no install needed.<br/>
+Also playable on desktop (keyboard) and phone (touch).
 
-[![Live](https://img.shields.io/badge/▶_Play-2ea44f?style=flat-square)](https://7bajwa.github.io/BoxVR/) ![WebXR](https://img.shields.io/badge/WebXR-three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+[![Play](https://img.shields.io/badge/▶_Play-2ea44f?style=for-the-badge)](https://7bajwa.github.io/BoxVR/)
 
-</td>
-<td valign="top">
+<br/>
 
-### 🎧 [Echo Path](https://github.com/7bajwa/Echo-Path-Game)
-Branching **audio fiction** game made to be played lying down with your eyes closed. Plain HTML/JS PWA with Web Audio ambience, narration and tap/headphone input.
+### [Echo Path](https://github.com/7bajwa/Echo-Path-Game)
+Branching audio fiction game.<br/>
+Made to be played lying down, eyes closed.<br/>
+Web Audio ambience, narration and tap/headphone controls.
 
-[![Live](https://img.shields.io/badge/▶_Play-2ea44f?style=flat-square)](https://7bajwa.github.io/Echo-Path-Game/) ![PWA](https://img.shields.io/badge/PWA-Web_Audio-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+[![Play](https://img.shields.io/badge/▶_Play-2ea44f?style=for-the-badge)](https://7bajwa.github.io/Echo-Path-Game/)
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+<br/>
 
-### 🧰 [T3D](https://github.com/7bajwa/T3D)
-**Blender TRE3D Tools** for fellow artists.
+### Blender ↔ UE5 Bridge
+Bidirectional pipeline between Blender and Unreal Engine 5.<br/>
+Live link via the UE Remote Control API with auto material instances.<br/>
+Mirrors collection and folder hierarchy between both apps.
 
-![Python](https://img.shields.io/badge/Blender_Add--on-F5792A?style=flat-square&logo=blender&logoColor=white)
+![In development](https://img.shields.io/badge/In_development-555555?style=for-the-badge)
 
-</td>
-<td valign="top">
+<br/>
 
-### 🗂️ [Online 3D Viewer App](https://github.com/7bajwa/Online3DViewerApp)
-Windows desktop build of the open-source [3dviewer.net](https://3dviewer.net) — a lightweight viewer to inspect 3D models offline.
+### [T3D](https://github.com/7bajwa/T3D)
+TRE3D Tools: a growing set of helpful Blender tools<br/>
+for fellow 3D artists.<br/>
+Built in my free time; ideas and suggestions welcome.
 
-![Windows](https://img.shields.io/badge/Windows-Release-0078D6?style=flat-square&logo=windows&logoColor=white)
+[![Get it](https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge)](https://github.com/7bajwa/T3D)
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+<br/>
 
-### 📸 [Automate RealityCapture](https://github.com/7bajwa/AutomateRealityCapture)
-Batch automation for photogrammetry — scans subfolders, extracts image sequences from video with ffmpeg and processes them in RealityCapture.
+### [Online 3D Viewer App](https://github.com/7bajwa/Online3DViewerApp)
+Native Windows app to view and inspect 3D models,<br/>
+like VLC or IrfanView but for 3D files.<br/>
+Built on the open-source Online 3D Viewer, wrapped in Electron.
 
-![Batch](https://img.shields.io/badge/Batch-ffmpeg-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
+[![Download](https://img.shields.io/badge/▶_Download-2ea44f?style=for-the-badge)](https://github.com/7bajwa/Online3DViewerApp/releases)
 
-</td>
-<td valign="top">
+<br/>
 
-### 🔁 [Blender Realize Instances](https://github.com/7bajwa/BlenderRealizeInstances)
-Converts Geometry Nodes instances into individual instanced objects, ready for export to game engines.
+### [Automate RealityCapture](https://github.com/7bajwa/AutomateRealityCapture)
+Batch scripts that drive RealityCapture's command line<br/>
+to process photogrammetry image sets automatically.<br/>
+Run the bat, go to sleep, clean up the models in the morning.
 
-![Python](https://img.shields.io/badge/Geometry_Nodes-F5792A?style=flat-square&logo=blender&logoColor=white)
+[![Get it](https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge)](https://github.com/7bajwa/AutomateRealityCapture)
 
-</td>
-</tr>
-</table>
+<br/>
+
+### [Blender Realize Instances](https://github.com/7bajwa/BlenderRealizeInstances)
+Blender add-on that converts Geometry Nodes instances<br/>
+into individual instanced objects.<br/>
+Find it in View3D &gt; N-Panel &gt; Tools.
+
+[![Get it](https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge)](https://github.com/7bajwa/BlenderRealizeInstances)
+
+</div>
 
 ---
 
-## 🎮 Games & Studios
+## 🎮 Games
 
 <div align="center">
 
-| 🎮 Game | 🏢 Studio | 🎨 Role |
-|:---|:---|:---|
-| Off the Grid | Gunzilla Games | Senior Biome Artist |
-| Unannounced Title *(cancelled)* | Romero Games | Senior Vegetation Artist |
-| Grand Theft Auto | Rockstar Games | Senior Vegetation Artist |
-| Simulator Project | NVIDIA | Environment Artist |
-| UE5 Demo | ASC Games / Epic Games | Environment Artist |
-| Mafia | Hangar 13 / 2K Games | Environment Artist |
-| Godfall | Dekogon | Environment Artist |
-| Forza Horizon | Dhruva Interactive | Vegetation Artist |
-| Overkill's The Walking Dead | Dhruva Interactive | Environment Artist |
-| Hunting Simulator 2 | Dhruva Interactive | Environment Artist |
-| CrossFire Co-Op | Dhruva Interactive | Vegetation Artist |
+<img src="https://cdnb.artstation.com/p/productions/covers/000/239/705/thumb/GTA6-cover.png?1794941857" width="18%" alt="Grand Theft Auto VI" title="Grand Theft Auto VI"/>
+<img src="https://cdna.artstation.com/p/productions/covers/000/217/016/thumb/off-the-grid-1i54s-1000x1333-1728466649.png?1757784629" width="18%" alt="Off the Grid" title="Off the Grid"/>
+<img src="https://cdna.artstation.com/p/productions/covers/000/217/018/thumb/WhatsApp_Image_2025-09-13_at_19.35.23_ad491529.png?1757785018" width="18%" alt="Unreleased project (Romero Games)" title="Unreleased project (Romero Games)"/>
+<img src="https://cdna.artstation.com/p/productions/covers/000/182/078/thumb/output_%281%29.png?1757785361" width="18%" alt="Unreleased project (NVIDIA)" title="Unreleased project (NVIDIA)"/>
+<img src="https://cdna.artstation.com/p/productions/covers/000/127/806/thumb/unreal-engine-5-playstation-5-demo.png?1641244668" width="18%" alt="Valley of the Ancients (UE5 demo)" title="Valley of the Ancients (UE5 demo)"/>
+
+<img src="https://cdnb.artstation.com/p/productions/covers/000/182/075/thumb/Godfall.png?1709406051" width="18%" alt="Godfall" title="Godfall"/>
+<img src="https://cdna.artstation.com/p/productions/covers/000/060/468/thumb/Forza_Horizon_4_cover.png?1539626482" width="18%" alt="Forza Horizon 4" title="Forza Horizon 4"/>
+<img src="https://cdnb.artstation.com/p/productions/covers/000/061/987/thumb/Cover_Art_of_Overkill%27s_The_Walking_Dead.png?1541923905" width="18%" alt="Overkill's The Walking Dead" title="Overkill's The Walking Dead"/>
+<img src="https://cdnb.artstation.com/p/productions/covers/000/080/073/thumb/4.png?1570727010" width="18%" alt="Hunting Simulator 2" title="Hunting Simulator 2"/>
+<img src="https://cdna.artstation.com/p/productions/covers/000/080/072/thumb/3.png?1570726626" width="18%" alt="CrossFire Co-Op (unreleased)" title="CrossFire Co-Op (unreleased)"/>
 
 </div>
 
