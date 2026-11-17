@@ -22,90 +22,61 @@ and I build the tools that make great art sustainable at scale.
 
 ---
 
-## 🚀 Technical Projects
+## 🚀 Projects
 
-<div align="center">
-
-### [Canopy](https://github.com/7bajwa/Canopy)
-Node-based procedural foliage creator, made by an artist for artists.<br/>
-Runs in the browser on any device, online and offline.<br/>
-Windows and Android builds included.
-
-[![Try it live](https://img.shields.io/badge/▶_Try_it_live-2ea44f?style=for-the-badge)](https://7bajwa.github.io/Canopy/)
-
-<br/>
-
-### [Czech Lab](https://github.com/7bajwa/czech-lab)
-Czech learning platform built around a structured study plan.<br/>
-Takes you from zero Czech to the A2 permanent-residence exam<br/>
-in 26 weeks.
-
-[![Start learning](https://img.shields.io/badge/▶_Start_learning-2ea44f?style=for-the-badge)](https://7bajwa.github.io/czech-lab/)
-
-<br/>
-
-### [BoxVR](https://github.com/7bajwa/BoxVR)
-VR boxing rhythm trainer for Meta Quest 3, built with WebXR and three.js.<br/>
-Runs free in the Quest Browser, no install needed.<br/>
-Also playable on desktop (keyboard) and phone (touch).
-
-[![Play](https://img.shields.io/badge/▶_Play-2ea44f?style=for-the-badge)](https://7bajwa.github.io/BoxVR/)
-
-<br/>
-
-### [Echo Path](https://github.com/7bajwa/Echo-Path-Game)
-Branching audio fiction game.<br/>
-Made to be played lying down, eyes closed.<br/>
-Web Audio ambience, narration and tap/headphone controls.
-
-[![Play](https://img.shields.io/badge/▶_Play-2ea44f?style=for-the-badge)](https://7bajwa.github.io/Echo-Path-Game/)
-
-<br/>
-
-### Blender ↔ UE5 Bridge
-Bidirectional pipeline between Blender and Unreal Engine 5.<br/>
-Live link via the UE Remote Control API with auto material instances.<br/>
-Mirrors collection and folder hierarchy between both apps.
-
-![In development](https://img.shields.io/badge/In_development-555555?style=for-the-badge)
-
-<br/>
-
-### [T3D](https://github.com/7bajwa/T3D)
-TRE3D Tools: a growing set of helpful Blender tools<br/>
-for fellow 3D artists.<br/>
-Built in my free time; ideas and suggestions welcome.
-
-[![Get it](https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge)](https://github.com/7bajwa/T3D)
-
-<br/>
-
-### [Online 3D Viewer App](https://github.com/7bajwa/Online3DViewerApp)
-Native Windows app to view and inspect 3D models,<br/>
-like VLC or IrfanView but for 3D files.<br/>
-Built on the open-source Online 3D Viewer, wrapped in Electron.
-
-[![Download](https://img.shields.io/badge/▶_Download-2ea44f?style=for-the-badge)](https://github.com/7bajwa/Online3DViewerApp/releases)
-
-<br/>
-
-### [Automate RealityCapture](https://github.com/7bajwa/AutomateRealityCapture)
-Batch scripts that drive RealityCapture's command line<br/>
-to process photogrammetry image sets automatically.<br/>
-Run the bat, go to sleep, clean up the models in the morning.
-
-[![Get it](https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge)](https://github.com/7bajwa/AutomateRealityCapture)
-
-<br/>
-
-### [Blender Realize Instances](https://github.com/7bajwa/BlenderRealizeInstances)
-Blender add-on that converts Geometry Nodes instances<br/>
-into individual instanced objects.<br/>
-Find it in View3D &gt; N-Panel &gt; Tools.
-
-[![Get it](https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge)](https://github.com/7bajwa/BlenderRealizeInstances)
-
-</div>
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<h3>🌳 <a href="https://github.com/7bajwa/Canopy">Canopy</a></h3>
+<p>Node-based procedural foliage creator, by an artist for artists. Runs in any browser, online or offline, plus Windows and Android builds.</p>
+<a href="https://7bajwa.github.io/Canopy/"><img src="https://img.shields.io/badge/▶_Try_it_live-2ea44f?style=for-the-badge" alt="Try it live"/></a>
+</td>
+<td align="center" valign="top" width="33%">
+<h3>🇨🇿 <a href="https://github.com/7bajwa/czech-lab">Czech Lab</a></h3>
+<p>Czech learning platform with a structured plan that takes you from zero Czech to the A2 permanent-residence exam in 26 weeks.</p>
+<a href="https://7bajwa.github.io/czech-lab/"><img src="https://img.shields.io/badge/▶_Start_learning-2ea44f?style=for-the-badge" alt="Start learning"/></a>
+</td>
+<td align="center" valign="top" width="33%">
+<h3>🥊 <a href="https://github.com/7bajwa/BoxVR">BoxVR</a></h3>
+<p>VR boxing rhythm trainer for Meta Quest 3, built with WebXR and three.js. Runs free in the Quest Browser, desktop and phone.</p>
+<a href="https://7bajwa.github.io/BoxVR/"><img src="https://img.shields.io/badge/▶_Play-2ea44f?style=for-the-badge" alt="Play"/></a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+<h3>🎧 <a href="https://github.com/7bajwa/Echo-Path-Game">Echo Path</a></h3>
+<p>Branching audio fiction game, played lying down with eyes closed. Web Audio ambience, narration and tap/headphone controls.</p>
+<a href="https://7bajwa.github.io/Echo-Path-Game/"><img src="https://img.shields.io/badge/▶_Play-2ea44f?style=for-the-badge" alt="Play"/></a>
+</td>
+<td align="center" valign="top" width="33%">
+<h3>🌱 Blender ↔ UE5 Bridge</h3>
+<p>Bidirectional Blender and Unreal Engine 5 pipeline. Live link via Remote Control API, auto material instances, mirrored hierarchy.</p>
+<img src="https://img.shields.io/badge/In_development-555555?style=for-the-badge" alt="In development"/>
+</td>
+<td align="center" valign="top" width="33%">
+<h3>🧰 <a href="https://github.com/7bajwa/T3D">T3D</a></h3>
+<p>TRE3D Tools: a growing set of helpful Blender tools for fellow 3D artists. Built in my free time; ideas welcome.</p>
+<a href="https://github.com/7bajwa/T3D"><img src="https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge" alt="Get it"/></a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+<h3>🗂️ <a href="https://github.com/7bajwa/Online3DViewerApp">3D Viewer Desktop</a></h3>
+<p>Native Windows app to view and inspect 3D models, like VLC but for 3D files. Built on Online 3D Viewer and Electron.</p>
+<a href="https://github.com/7bajwa/Online3DViewerApp/releases"><img src="https://img.shields.io/badge/▶_Download-2ea44f?style=for-the-badge" alt="Download"/></a>
+</td>
+<td align="center" valign="top" width="33%">
+<h3>📸 <a href="https://github.com/7bajwa/AutomateRealityCapture">Automate RealityCapture</a></h3>
+<p>Batch scripts that drive RealityCapture's CLI to process photogrammetry sets. Run the bat, sleep, clean up in the morning.</p>
+<a href="https://github.com/7bajwa/AutomateRealityCapture"><img src="https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge" alt="Get it"/></a>
+</td>
+<td align="center" valign="top" width="33%">
+<h3>🔁 <a href="https://github.com/7bajwa/BlenderRealizeInstances">Realize Instances</a></h3>
+<p>Blender add-on that converts Geometry Nodes instances into individual instanced objects, ready for game engines.</p>
+<a href="https://github.com/7bajwa/BlenderRealizeInstances"><img src="https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge" alt="Get it"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
