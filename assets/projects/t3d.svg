@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+<style>text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;text-anchor:middle}.t{font-size:20px;font-weight:600;fill:#1f2328}.d{font-size:13.5px;fill:#59636e}.b{font-size:12px;font-weight:700;fill:#fff;letter-spacing:1px}
+@media (prefers-color-scheme:dark){.t{fill:#f0f6fc}.d{fill:#9198a1}}</style>
+<text class="t" x="160" y="38">🧰 T3D</text><text class="d" x="160" y="78">TRE3D Tools: a growing set of helpful</text><text class="d" x="160" y="98">Blender tools for fellow 3D artists. Ideas</text><text class="d" x="160" y="118">welcome.</text>
+<rect x="105" y="150" width="110" height="30" rx="4" fill="#2ea44f"/><text class="b" x="160" y="170">▶  GET IT</text>
+</svg>

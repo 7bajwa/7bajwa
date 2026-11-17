@@ -24,63 +24,25 @@ and I build the tools that make great art sustainable at scale.
 
 ## 🚀 Projects
 
-<table>
-<tr>
-<td align="center" valign="top" width="33%">
-<h3>🌳 <a href="https://github.com/7bajwa/Canopy">Canopy</a></h3>
-<p>Node-based procedural foliage creator, by an artist for artists. Runs in any browser, online or offline, plus Windows and Android builds.</p>
-<a href="https://7bajwa.github.io/Canopy/"><img src="https://img.shields.io/badge/▶_Try_it_live-2ea44f?style=for-the-badge" alt="Try it live"/></a>
-</td>
-<td align="center" valign="top" width="33%">
-<h3>📚 <a href="https://github.com/7bajwa/czech-lab">Czech Lab</a></h3>
-<p>Czech learning platform with a structured plan that takes you from zero Czech to the A2 permanent-residence exam in 26 weeks.</p>
-<a href="https://7bajwa.github.io/czech-lab/"><img src="https://img.shields.io/badge/▶_Start_learning-2ea44f?style=for-the-badge" alt="Start learning"/></a>
-</td>
-<td align="center" valign="top" width="33%">
-<h3>🥊 <a href="https://github.com/7bajwa/BoxVR">BoxVR</a></h3>
-<p>VR boxing rhythm trainer for Meta Quest 3, built with WebXR and three.js. Runs free in the Quest Browser, desktop and phone.</p>
-<a href="https://7bajwa.github.io/BoxVR/"><img src="https://img.shields.io/badge/▶_Play-2ea44f?style=for-the-badge" alt="Play"/></a>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%">
-<h3>🎧 <a href="https://github.com/7bajwa/Echo-Path-Game">Echo Path</a></h3>
-<p>Branching audio fiction game, played lying down with eyes closed. Web Audio ambience, narration and tap/headphone controls.</p>
-<a href="https://7bajwa.github.io/Echo-Path-Game/"><img src="https://img.shields.io/badge/▶_Play-2ea44f?style=for-the-badge" alt="Play"/></a>
-</td>
-<td align="center" valign="top" width="33%">
-<h3>🌱 Blender ↔ UE5 Bridge</h3>
-<p>Bidirectional Blender and Unreal Engine 5 pipeline. Live link via Remote Control API, auto material instances, mirrored hierarchy.</p>
-<img src="https://img.shields.io/badge/In_development-555555?style=for-the-badge" alt="In development"/>
-</td>
-<td align="center" valign="top" width="33%">
-<h3>🧰 <a href="https://github.com/7bajwa/T3D">T3D</a></h3>
-<p>TRE3D Tools: a growing set of helpful Blender tools for fellow 3D artists. Built in my free time; ideas welcome.</p>
-<a href="https://github.com/7bajwa/T3D"><img src="https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge" alt="Get it"/></a>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%">
-<h3>🗂️ <a href="https://github.com/7bajwa/Online3DViewerApp">3D Viewer Desktop</a></h3>
-<p>Native Windows app to view and inspect 3D models, like VLC but for 3D files. Built on Online 3D Viewer and Electron.</p>
-<a href="https://github.com/7bajwa/Online3DViewerApp/releases"><img src="https://img.shields.io/badge/▶_Download-2ea44f?style=for-the-badge" alt="Download"/></a>
-</td>
-<td align="center" valign="top" width="33%">
-<h3>📸 <a href="https://github.com/7bajwa/AutomateRealityCapture">Automate RealityCapture</a></h3>
-<p>Batch scripts that drive RealityCapture's CLI to process photogrammetry sets. Run the bat, sleep, clean up in the morning.</p>
-<a href="https://github.com/7bajwa/AutomateRealityCapture"><img src="https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge" alt="Get it"/></a>
-</td>
-<td align="center" valign="top" width="33%">
-<h3>🔁 <a href="https://github.com/7bajwa/BlenderRealizeInstances">Realize Instances</a></h3>
-<p>Blender add-on that converts Geometry Nodes instances into individual instanced objects, ready for game engines.</p>
-<a href="https://github.com/7bajwa/BlenderRealizeInstances"><img src="https://img.shields.io/badge/▶_Get_it-2ea44f?style=for-the-badge" alt="Get it"/></a>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<a href="https://7bajwa.github.io/Canopy/"><img src="assets/projects/canopy.svg" width="32%" alt="Canopy"/></a>
+<a href="https://7bajwa.github.io/czech-lab/"><img src="assets/projects/czech-lab.svg" width="32%" alt="Czech Lab"/></a>
+<a href="https://7bajwa.github.io/BoxVR/"><img src="assets/projects/boxvr.svg" width="32%" alt="BoxVR"/></a>
+
+<a href="https://7bajwa.github.io/Echo-Path-Game/"><img src="assets/projects/echo-path.svg" width="32%" alt="Echo Path"/></a>
+<img src="assets/projects/ue5-bridge.svg" width="32%" alt="Blender ↔ UE5 Bridge"/>
+<a href="https://github.com/7bajwa/T3D"><img src="assets/projects/t3d.svg" width="32%" alt="T3D"/></a>
+
+<a href="https://github.com/7bajwa/Online3DViewerApp/releases"><img src="assets/projects/3d-viewer.svg" width="32%" alt="3D Viewer Desktop"/></a>
+<a href="https://github.com/7bajwa/AutomateRealityCapture"><img src="assets/projects/reality-capture.svg" width="32%" alt="Automate RealityCapture"/></a>
+<a href="https://github.com/7bajwa/BlenderRealizeInstances"><img src="assets/projects/realize-instances.svg" width="32%" alt="Realize Instances"/></a>
+
+</div>
 
 ---
 
-## 🎮 Games
+## 🎮 Games I contributed to
 
 <div align="center">
 
